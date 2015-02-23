@@ -1,0 +1,8 @@
+name: ChatBubbles
+main: com.hxlot.Jonasrems.chat.ChatBubbles.chat
+author: Jonasrems
+version: '0.1.0'
+commands:
+   chatbubble:
+      description: List all chat bubble commands.
+      usage: /chatbubble
